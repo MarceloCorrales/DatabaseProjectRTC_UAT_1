@@ -1,0 +1,8 @@
+CREATE SEQUENCE [dbo].[Sequence-ItemNumber]
+    AS BIGINT
+    START WITH 100000
+    INCREMENT BY 1;
+
+
+GO
+
