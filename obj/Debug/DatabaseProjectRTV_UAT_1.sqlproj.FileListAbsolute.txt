@@ -1,0 +1,10 @@
+d:\DB_Project_RTV_UAT\DatabaseProjectRTV_UAT_1\DatabaseProjectRTV_UAT_1\bin\Debug\DatabaseProjectRTV_UAT_1.dacpac
+d:\DB_Project_RTV_UAT\DatabaseProjectRTV_UAT_1\DatabaseProjectRTV_UAT_1\bin\Debug\DatabaseProjectRTV_UAT_1.dll
+d:\DB_Project_RTV_UAT\DatabaseProjectRTV_UAT_1\DatabaseProjectRTV_UAT_1\bin\Debug\DatabaseProjectRTV_UAT_1.pdb
+d:\DB_Project_RTV_UAT\DatabaseProjectRTV_UAT_1\DatabaseProjectRTV_UAT_1\obj\Debug\DatabaseProjectRTV_UAT_1.sqlproj.AssemblyReference.cache
+d:\DB_Project_RTV_UAT\DatabaseProjectRTV_UAT_1\DatabaseProjectRTV_UAT_1\obj\Debug\Model.xml
+d:\DB_Project_RTV_UAT\DatabaseProjectRTV_UAT_1\DatabaseProjectRTV_UAT_1\obj\Debug\refactor.xml
+d:\DB_Project_RTV_UAT\DatabaseProjectRTV_UAT_1\DatabaseProjectRTV_UAT_1\obj\Debug\postdeploy.sql
+d:\DB_Project_RTV_UAT\DatabaseProjectRTV_UAT_1\DatabaseProjectRTV_UAT_1\obj\Debug\predeploy.sql
+d:\DB_Project_RTV_UAT\DatabaseProjectRTV_UAT_1\DatabaseProjectRTV_UAT_1\obj\Debug\DatabaseProjectRTV_UAT_1.dll
+d:\DB_Project_RTV_UAT\DatabaseProjectRTV_UAT_1\DatabaseProjectRTV_UAT_1\obj\Debug\DatabaseProjectRTV_UAT_1.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UGjY0TCcg9w=",
+  "success": true,
+  "projectFilePath": "d:\\DB_Project_RTV_UAT\\DatabaseProjectRTV_UAT_1\\DatabaseProjectRTV_UAT_1\\DatabaseProjectRTV_UAT_1.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

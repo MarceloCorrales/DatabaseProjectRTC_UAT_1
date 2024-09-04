@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\DB_Project_RTV_UAT\\DatabaseProjectRTV_UAT_1\\DatabaseProjectRTV_UAT_1\\DatabaseProjectRTV_UAT_1.sqlproj": {}
+  },
+  "projects": {
+    "d:\\DB_Project_RTV_UAT\\DatabaseProjectRTV_UAT_1\\DatabaseProjectRTV_UAT_1\\DatabaseProjectRTV_UAT_1.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\DB_Project_RTV_UAT\\DatabaseProjectRTV_UAT_1\\DatabaseProjectRTV_UAT_1\\DatabaseProjectRTV_UAT_1.sqlproj",
+        "projectName": "DatabaseProjectRTV_UAT_1",
+        "projectPath": "d:\\DB_Project_RTV_UAT\\DatabaseProjectRTV_UAT_1\\DatabaseProjectRTV_UAT_1\\DatabaseProjectRTV_UAT_1.sqlproj",
+        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
+        "outputPath": "d:\\DB_Project_RTV_UAT\\DatabaseProjectRTV_UAT_1\\DatabaseProjectRTV_UAT_1\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU5128"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
